@@ -1,4 +1,4 @@
-# my-blog-admin
+# myblog-admin
 
 > A Vue.js project
 
